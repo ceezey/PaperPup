@@ -2,6 +2,10 @@
 
 PaperPub is a centralized hub for student resources, providing an easy way to organize and access educational materials.
 
+## Purpose
+
+A project for [COMP016] Web Development under Sir. Esparrago.
+
 ## Tech Stack
 
 ### Frontend
