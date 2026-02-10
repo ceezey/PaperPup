@@ -1,6 +1,6 @@
-# PaperPub
+# PaperPup
 
-PaperPub is a centralized hub for student resources, providing an easy way to organize and access educational materials.
+PaperPup is a centralized hub for student resources, providing an easy way to organize and access educational materials.
 
 ## Purpose
 
